@@ -1,0 +1,6 @@
+{
+  "name": "Smart Shop",
+  "description": "Smart Shop - Modern offline POS, inventory, and retail management with PIN & Pattern app security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
